@@ -12,6 +12,12 @@ An Apple Vision Pro project where you can track your gaze across videos and real
 
 ---
 
+## Citation
+
+If you use this repository or find this work helpful for your research, please cite our article:
+
+> Mehmedova, E., Berrezueta-Guzman, S. & Wagner, S. (2026). **iTrace: Click-Based Gaze Visualization on the Apple Vision Pro**. *Human-Centric Intelligent Systems*, 6, 269–282. https://doi.org/10.1007/s44230-026-00143-8
+
 ## Features
 
 ### Precision Test
